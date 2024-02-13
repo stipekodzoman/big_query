@@ -1,0 +1,37 @@
+{
+    "id":"id",
+    "contract":"contract",
+    "reverse_record":{
+        "resolved_address":"resolved_address",
+        "expiration_date":"expiration_date",
+        "registrant":"registrant",
+        "parent":"parent",
+        "controller":"controller",
+        "token_id":"token_id",
+        "other_addresses":"other_addresses",
+        "content":"content",
+        "text_records":[],
+        "owner":"owner",
+        "single_chain_records":[],
+        "multi_chain_records":[],
+        "other_records":[]
+    },
+    "domain_names":[
+        {
+            "domain_name":"domain_name",
+            "resolved_address":"resolved_address",
+            "expiration_date":"expiration_date",
+            "registrant":"registrant",
+            "parent":"parent",
+            "controller":"controller",
+            "token_id":"token_id",
+            "other_addresses":"other_addresses",
+            "content":"content",
+            "text_records":[],
+            "owner":"owner",
+            "single_chain_records":[],
+            "multi_chain_records":[],
+            "other_records":[]
+        }
+    ]
+}
